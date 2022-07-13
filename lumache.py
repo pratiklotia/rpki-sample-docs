@@ -1,4 +1,5 @@
 """
+Source code of the fictional Python library.
 Lumache - Python library for cooks and food lovers.
 """
 
